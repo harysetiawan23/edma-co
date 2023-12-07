@@ -122,6 +122,7 @@ nav li a:hover {
 
   header nav ul {
     gap: .5rem;
+    justify-content: space-around;
   }
 
   header nav li {
