@@ -468,6 +468,9 @@ nav li a:hover {
 
 
 @media screen and (max-width: 460px){
+  #brands h2 {
+    text-align: center;
+  }
   #brands .showlist {
     width: auto;
     padding-left: 3rem;
